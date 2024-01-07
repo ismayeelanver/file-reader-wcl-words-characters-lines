@@ -27,8 +27,10 @@ while getopts "$optstring" arg; do
 		file="$2"
 		if [ -d $file ]; then
 			echo "$file is a directory"
+			exit
 		elif ! [ -f $file ]; then
 			echo "$file does not exist"
+			exit
 		fi
 		echo your file has $(cat $file | wc -l) lines
 		;;
