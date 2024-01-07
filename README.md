@@ -1,1 +1,11 @@
-# file-reader-wcl-words-characters-lines
+# usage 😎
+
+```
+./reader.sh -h
+```
+
+# requirements 😎
+
+- bash
+- git
+- some bash xp
