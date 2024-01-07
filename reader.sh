@@ -43,9 +43,11 @@ while getopts "$optstring" arg; do
 		;;
 	h)
 		echo "usage: test.sh [-w] [-l] [-c] [-h]"
+		echo "if permisson is denied, use sudo test.sh [-w] [-l] [-c] [-h]"
 		;;
 	*)
 		echo "usage: test.sh [-w] [-l] [-c] [-h]"
+		echo "if permisson is denied, use sudo test.sh [-w] [-l] [-c] [-h]"
 		;;
 	esac
 done
