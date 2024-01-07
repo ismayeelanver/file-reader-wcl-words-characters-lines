@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Copyright 2024
-# test.sh
+# reader.sh
 # main() {
 # $everything
 # }
