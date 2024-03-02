@@ -13,7 +13,7 @@ PS $path> wcl.exe -h
 ```
 
 # installation on mac
-- first download the wcl-linux_binary.tar.gz from the releases
+- first download the wcl-linux_binary.tar.gz from the releases page
 - open terminal prompt i.e. terminal and type
 ```
 tar -xf wcl-linux_binary.tar.gz
