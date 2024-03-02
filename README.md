@@ -12,7 +12,7 @@ wcl is a simple program that is made up of bash. it is used to know how much wor
 PS $path> wcl.exe -h
 ```
 
-# Installation on mac 
+# Installation on mac 💻
 - first download the wcl-linux_binary.tar.gz from the releases page
 - open terminal prompt i.e. terminal and type
 ```
