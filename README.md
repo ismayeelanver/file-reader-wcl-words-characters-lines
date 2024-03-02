@@ -1,13 +1,14 @@
 
 # Introduction
-wcl is a simple program that is made up of bash. it is used to know how much words, characters and lines in is a file
+wcl is a simple program that is made up of bash. it is used to know how much words, characters and lines is in a file
 
-# usage 😎
-```linux
+# Usage 😎
+- linux 
+```
 # wcl -h
 ```
-
-```windows
+- windows
+```
 PS $path> wcl.exe -h
 ```
 
