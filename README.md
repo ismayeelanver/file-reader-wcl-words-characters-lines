@@ -1,11 +1,21 @@
+
+# Introduction
+wcl is a simple program that is made up of bash. it is used to know how much words, characters and lines in a file
+
 # usage 😎
-
+```linux
+# wcl -h
 ```
-./reader.sh -h
+
+```windows
+PS $path> wcl.exe -h
 ```
 
-# requirements 😎
+# installation on mac
+- first download the wcl-linux_binary.tar.gz from the releases
+- open terminal prompt i.e. terminal and type
+```
+tar -xf wcl-linux_binary.tar.gz
+mv wcl ~/Applications
+```
 
-- bash
-- git
-- some bash xp
